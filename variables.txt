@@ -1,0 +1,17 @@
+food = "Pizza"
+
+is_delicious = true
+
+food = "Calzone"
+
+num2 = 4
+
+num7 = 16
+
+quotient = num7 / num2
+
+songs = ["Whats Poppin", "Roses", "Watermelon Sugar"]
+
+puts songs.shift
+
+puts food.count
