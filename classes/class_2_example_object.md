@@ -10,4 +10,4 @@
 1. add_meat: vegetarian = false (left unchanged)
 2. add_side: side selected from *available_sides*
 3. calculate_entree_price: returns *cost* + side value)
-4. recommend: returns recommendation based off house_favorite value
+4. recommend: returns recommendation based off *house_favorite* value
