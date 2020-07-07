@@ -10,4 +10,4 @@
 1. clean_table (changes *is_dirty* to false)
 2. remove_object (removes one element from array *objects_on_table*)
 3. repair (changes *condition* to "good")
-4. place_on_sale (uses *cost* variable to determine price point)
+4. calculate_selling_price (uses *cost* variable to determine price point)
